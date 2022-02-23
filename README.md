@@ -1,6 +1,6 @@
 # 基于Vue的宠物爱心平台PC端
 
-这是一个和前同学合作的项目，功能完善。
+这是一个和前同学合作的项目。
 
 宠物爱心公益平台希望能可以能一定程度帮助到想要帮助流浪动物的人士，想要收养宠物人士，动物需要帮助的人士等一个集**领养，救助，资讯**一体的公益平台。
 
@@ -107,7 +107,7 @@ npm run server
 
 ## 部分截图
 
-
+![](https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E5%BF%97%E6%84%BF%E8%80%85%E5%AE%A1%E6%A0%B8%E7%A1%AE%E8%AE%A4%E6%A1%86.jpg)
 
 ## 项目布局
 

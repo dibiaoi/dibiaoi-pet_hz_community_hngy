@@ -105,10 +105,6 @@ npm run server
 
 ```
 
-## 部分截图
-
-![](https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E5%BF%97%E6%84%BF%E8%80%85%E5%AE%A1%E6%A0%B8%E7%A1%AE%E8%AE%A4%E6%A1%86.jpg)
-
 ## 项目布局
 
 ```
@@ -171,4 +167,62 @@ npm run server
 ```
 
 
+
+## 部分截图
+
+欢迎页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E6%AC%A2%E8%BF%8E%E9%A1%B5.jpg" style="zoom: 67%;" />
+
+首页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A6%96%E9%A1%B5.jpg" alt="首页" style="zoom: 67%;" />
+
+首页登录
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A6%96%E9%A1%B5%E7%99%BB%E5%BD%95.jpg" alt="首页登录" style="zoom: 67%;" />
+
+领养页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A6%96%E9%A1%B5-%E9%A2%86%E5%85%BB%E9%A1%B5.jpg" style="zoom: 67%;" />
+
+用户修改个人资料
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E7%94%A8%E6%88%B7-%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.jpg" style="zoom: 67%;" />
+
+宠物详情
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E5%AE%A0%E7%89%A9%E8%AF%A6%E6%83%85.jpg" style="zoom:67%;" />
+
+发布领养
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E5%8F%91%E5%B8%83%E9%A2%86%E5%85%BB.jpg" style="zoom:67%;" />
+
+领养页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A6%96%E9%A1%B5-%E9%A2%86%E5%85%BB%E9%A1%B5.jpg" style="zoom:67%;" />
+
+领养详情
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A2%86%E5%85%BB%E8%AF%A6%E6%83%85.jpg" style="zoom:67%;" />
+
+众筹
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E4%BC%97%E7%AD%B9%E9%A1%B52.jpg" style="zoom:67%;" />
+
+众筹详情页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E4%BC%97%E7%AD%B9%E8%AF%A6%E6%83%85%E9%A1%B5.jpg" style="zoom:67%;" />
+
+资讯页
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E8%B5%84%E8%AE%AF%E9%A1%B5.jpg" style="zoom:67%;" />
+
+管理员
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E9%A2%86%E5%85%BB%E7%AE%A1%E7%90%86.jpg" style="zoom:67%;" />
+
+志愿者审核
+
+<img src="https://github.com/dibiaoi/dibiaoi-pet_hz_community_hngy/raw/main/screenPic/%E5%BF%97%E6%84%BF%E8%80%85%E5%AE%A1%E6%A0%B8%E7%A1%AE%E8%AE%A4%E6%A1%86.jpg" style="zoom:67%;" />
 
